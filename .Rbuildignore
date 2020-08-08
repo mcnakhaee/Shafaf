@@ -1,3 +1,6 @@
 ^data-raw$
 ^Shafaf\.Rproj$
 ^\.Rproj\.user$
+^_pkgdown\.yml$
+^docs$
+^pkgdown$
