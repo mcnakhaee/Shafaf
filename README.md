@@ -15,12 +15,6 @@ remotes::install_github('mcnakhaee/Shafaf')
 Shafaf::mayors
 ```
 
-### Example
-
-```r
-
-```
-
 ### Issues
 
 Please report your issues in the issue page of the repository or send an email to mcnakhaee@gmail.com
